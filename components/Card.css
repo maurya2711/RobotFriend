@@ -1,0 +1,5 @@
+.card {
+  background-color: aqua;
+  flex-wrap: wrap;
+  border: 3px solid black;
+}
